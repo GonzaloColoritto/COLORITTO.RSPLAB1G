@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1596155920 source:c:\users\gonzalo\desktop\coloritto.rsplab1\controller.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"pais.h"
+	"parser.h"
+	"utn.h"
+
+1596146842 c:\users\gonzalo\desktop\coloritto.rsplab1\ll_list.h
+
+1596153871 c:\users\gonzalo\desktop\coloritto.rsplab1\pais.h
+
+1596146655 c:\users\gonzalo\desktop\coloritto.rsplab1\parser.h
+
+1595527118 c:\users\gonzalo\desktop\coloritto.rsplab1\utn.h
+
+1596155954 source:c:\users\gonzalo\desktop\coloritto.rsplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pais.h"
+	"ll_list.h"
+	<time.h>
+
+1596147260 source:c:\users\gonzalo\desktop\coloritto.rsplab1\ll_list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ll_list.h"
+	"pais.h"
+	"Controller.h"
+
+1596146655 c:\users\gonzalo\desktop\coloritto.rsplab1\controller.h
+	"ll_list.h"
+
+1596146654 source:c:\users\gonzalo\desktop\coloritto.rsplab1\pais.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"pais.h"
+	<string.h>
+
+1596148288 source:c:\users\gonzalo\desktop\coloritto.rsplab1\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ll_list.h"
+	"pais.h"
+
+1596150486 source:c:\users\gonzalo\desktop\coloritto.rsplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	<ctype.h>
+
+1596155954 source:c:\users\gonzalo\desktop\coloritto.rsplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"ll_list.h"
+	"Controller.h"
+	"informes.h"
+	<time.h>
+
+1596146655 c:\users\gonzalo\desktop\coloritto.rsplab1\menu.h
+
+1596149452 c:\users\gonzalo\desktop\coloritto.rsplab1\informes.h
+
+1596155954 source:c:\users\gonzalo\desktop\coloritto.rsplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+
